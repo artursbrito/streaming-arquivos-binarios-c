@@ -1,8 +1,8 @@
 COMANDOS PARA EXECUTAR O PROGRAMA
 
 1) Clonar o repositorio:
-   git clone <LINK_DO_SEU_REPOSITORIO>
-   cd <NOME_DA_PASTA>
+   git clone https://github.com/artursbrito/streaming-arquivos-binarios-c
+   cd streaming-arquivos-binarios-c
 
 2) Compilar (GCC):
    gcc -Wall -o streaming streaming.c
